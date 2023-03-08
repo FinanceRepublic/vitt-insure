@@ -47,8 +47,8 @@ export default function TeamSection(){
         },
         {
             image:teamMember3,
-            name:'Dr. Vidhu Shekhar',
-            des:'Director,Fintech Innovations',
+            name:'Sonam Sablok',
+            des:'VP, Partnerships & Growth',
             linkdin:'https://www.linkedin.com/in/vidhushekhar/'
         },
 

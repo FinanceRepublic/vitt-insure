@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e74e84e.css",
-    "main.js": "/static/js/main.a9f4a2f3.js",
+    "main.css": "/static/css/main.efeaebb4.css",
+    "main.js": "/static/js/main.b5702300.js",
     "static/media/investment-money.gif": "/static/media/investment-money.f5c1785cc66ad8fb777e.gif",
     "static/media/chat-bot-security.png": "/static/media/chat-bot-security.e03757dfb46dd79663d0.png",
     "static/media/img3.jpg": "/static/media/img3.1110fd3ef21b07b10192.jpg",
@@ -48,11 +48,11 @@
     "static/media/juicy-woman-and-a-man-drink-coffee.png": "/static/media/juicy-woman-and-a-man-drink-coffee.f210157adc6270bbbafe.png",
     "static/media/awards-bg.png": "/static/media/awards-bg.9ba080c1ce7fe7173ad6.png",
     "index.html": "/index.html",
-    "main.7e74e84e.css.map": "/static/css/main.7e74e84e.css.map",
-    "main.a9f4a2f3.js.map": "/static/js/main.a9f4a2f3.js.map"
+    "main.efeaebb4.css.map": "/static/css/main.efeaebb4.css.map",
+    "main.b5702300.js.map": "/static/js/main.b5702300.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e74e84e.css",
-    "static/js/main.a9f4a2f3.js"
+    "static/css/main.efeaebb4.css",
+    "static/js/main.b5702300.js"
   ]
 }
