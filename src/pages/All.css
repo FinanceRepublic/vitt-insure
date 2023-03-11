@@ -293,7 +293,7 @@ body{
 .features .wrap{
     width:100%;
     margin:10rem 0;
-    border:0.1rem solid red;
+    /* border:0.1rem solid red; */
 }
 .features .title{
     font-size: 4rem;
