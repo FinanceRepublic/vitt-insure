@@ -43,13 +43,13 @@ export default function TeamSection(){
             image:teamMember2,
             name:'Ajay Kumar',
             des:'Principal Officer & Director',
-            linkdin:'https://www.linkedin.com/in/vidhushekhar/'
+            linkdin:'https://in.linkedin.com/in/ajay-kumar-98b64226a'
         },
         {
             image:teamMember3,
             name:'Sonam Sablok',
             des:'VP, Partnerships & Growth',
-            linkdin:'https://www.linkedin.com/in/vidhushekhar/'
+            linkdin:null
         },
 
     ]
@@ -85,9 +85,9 @@ export function Card({image,des,name,linkdin}){
                         
                         <p className='des'>{des}</p>
                         <div className="icon-holder" >
-                            <a href={linkdin}>
+                            {linkdin && <a href={linkdin}>
                                 <i className="fa-brands fa-linkedin" ></i>
-                            </a>
+                            </a>}
                         </div>
                     </div>
                 </div>
